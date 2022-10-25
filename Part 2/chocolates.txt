@@ -1,0 +1,20 @@
+strawberry and thyme whip,0.12,0.36
+strawberry and lemongrass whirl,0.15,0.37
+mint and rosemary explosion,0.14,0.36
+nougat and chilli delight,0.11,0.35
+truffle and sage crunch,0.16,0.38
+hazlenut and lemongrass whip,0.14,0.43
+hazlenut and chilli delight,0.12,0.36
+orange and sea salt surprise,0.14,0.31
+toffee and sage whirl,0.11,0.3
+toffee and lemongrass explosion,0.13,0.37
+strawberry and chilli delight,0.15,0.35
+strawberry and pepper crunch,0.14,0.34
+mint and thyme whirl,0.9,0.3
+mint and pepper surprise,0.8,0.29
+nougat and rosemary explosion,0.11,0.31
+nougat and sage surprise,0.12,0.33
+nougat and sea salt whirl,0.15,0.39
+truffle and lemongrass whirl,0.16,0.43
+truffle and chilli cream,0.19,0.47
+orange and thyme cream,0.13,0.38
